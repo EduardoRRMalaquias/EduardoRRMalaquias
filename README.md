@@ -2,8 +2,8 @@
 
 
 - 💻 Tecnico Em Informatica (Senac)
-- 👨🏻‍💻 Atualmente atuo como Anlista de rede
-- ⌨️ Estudante de Programação (HTML, CSS, Bootstrap, JavaScript, Java, MySQL, Design)
+- 👨🏻‍💻 Cursando sistemas da informação na FAESA
+- ⌨️ Estudante de Programação FrontEnd (HTML, CSS, Bootstrap, taylwind, JavaScript, REact, Vue, UI Design)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
